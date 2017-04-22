@@ -3,7 +3,7 @@ title: 卢奇华
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: luqihua
 # 头像里面的描述
 avatarDesc: android / web
 url: "http://www.luqihua.cn"
@@ -15,9 +15,8 @@ comment:
 
 # Social
 social:
-    weibo: 82172436 
+    #weibo: 82172436 
     github: luqihua
-    # twitter: 
     mail: 15960085046@163.com
 
 # 百度统计 
@@ -46,7 +45,7 @@ permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
 
-textColor: #FF0000
+textColor: #F00000
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: clear
