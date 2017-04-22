@@ -9,9 +9,9 @@ avatarDesc: android / web
 url: "http://www.luqihua.cn"
 
 # Comment
-comment:
-    # disqus: leopard
-    duoshuo: leopard 
+# comment:
+    # # disqus: leopard
+    # duoshuo: leopard 
 
 # Social
 social:
